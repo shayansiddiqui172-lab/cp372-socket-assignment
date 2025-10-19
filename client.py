@@ -1,3 +1,7 @@
+
+"""
+CP372 Socket Programming — Cliemt
+"""
 import os 
 import socket
 
